@@ -8,8 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController{
+    UILabel *label;
+    int counter;
+}
 
+@property (nonatomic, retain) IBOutlet UILabel *label;
+
+-(IBAction)changeMessage;
+-(IBAction)changeMessage2;
 
 @end
 
