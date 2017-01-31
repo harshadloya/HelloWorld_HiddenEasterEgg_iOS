@@ -9,5 +9,7 @@ Checkout the code and import it in xcode.
 Click on build.
 
 #Repo owner or admin
-Harshad Loya
+Harshad Loya.
+
+
 hloya1@binghamton.edu
