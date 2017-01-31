@@ -8,5 +8,6 @@ This repository contains project1 - Hello World of game development course.
 Checkout the code and import it in xcode.
 Click on build.
 
-#Harshad Loya
-#hloya1@binghamton.edu
+#Repo owner or admin
+Harshad Loya
+hloya1@binghamton.edu
