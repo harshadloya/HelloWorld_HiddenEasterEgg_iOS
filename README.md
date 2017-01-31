@@ -10,4 +10,5 @@ Click on build.
 
 #Repo owner or admin
 Harshad Loya
-\n hloya1@binghamton.edu
+<br>
+hloya1@binghamton.edu
